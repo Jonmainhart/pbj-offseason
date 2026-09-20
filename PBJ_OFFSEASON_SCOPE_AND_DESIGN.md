@@ -397,6 +397,19 @@ The character definition decides **when and why** those behaviors are favored.
 
 - Big Red
 - Beth
+- Kelley
+- Shauna
+- Keri (Staff)
+- Karlee (Staff)
+- Steff (Staff)
+- Kass (Staff)
+- Shorty (Staff)
+- Sweary (Staff)
+- Jeff (Staff)
+- Junior (Staff)
+- APJ (with appropriate reactive behavior from certain characters when present)
+- Boss Don
+- Tom
 
 ### Generic characters
 
